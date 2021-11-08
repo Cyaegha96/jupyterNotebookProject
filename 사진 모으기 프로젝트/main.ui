@@ -51,7 +51,7 @@
       <item>
        <widget class="QLineEdit" name="apiKeyLineEdit">
         <property name="text">
-         <string>6a271aa6c5bd67f640fabbc6a14e76a1</string>
+         <string><자신의 카카오 API 값 입력> </string>
         </property>
         <property name="placeholderText">
          <string>자신의 카카오 API 값을 입력해주세요</string>
